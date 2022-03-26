@@ -20,4 +20,12 @@ A brief description of what this project does and who it's for
 - Variables
 
 
+# 2. Tip Calculator
+
+A brief description of what this project does and who it's for
+## Lessons Learned
+
+- Data Types, Math Operations, and Strings
+- BMI Calculator
+- F-Strings
 

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Belajar Python Boootcamp 👋
 

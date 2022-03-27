@@ -35,7 +35,7 @@ A brief description of what this project does and who it's for
 ## Lessons Learned
 
 - If/ Else , Nested
-- 
-- 
+- Logical Operators
+
 
 

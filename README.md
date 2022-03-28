@@ -37,5 +37,10 @@ A brief description of what this project does and who it's for
 - If/ Else , Nested
 - Logical Operators
 
+# 4. Rock Papper Scissors
 
+## Lessons Learned
+
+- List
+- Random Module
 

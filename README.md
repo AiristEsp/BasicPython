@@ -44,3 +44,8 @@ A brief description of what this project does and who it's for
 - List
 - Random Module
 
+# 32. Send Email and Date time
+
+## Lessons Learned
+
+- smtplib , datetime module

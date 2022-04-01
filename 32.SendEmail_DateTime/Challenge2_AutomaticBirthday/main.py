@@ -5,7 +5,7 @@ import random
 import smtplib
 
 MY_EMAIL = "smtp@gmail.com"
-MY_PASSWORD = ""
+MY_PASSWORD = "@"
 
 
 # 1. Update the birthdays.csv
@@ -28,22 +28,22 @@ birthdays_dict = {(data_row["month"], data_row["day"]): data_row for (index, dat
 if today_tupple in birthdays_dict:
     birthday_person = birthdays_dict[today_tupple]
     file_path = f"letter_templates/letter_{random.randint(1,3)}.txt"
+    
     with open(file_path) as letter_file:
         contents = letter_file.read()
         contents = contents.replace("[NAME]", birthday_person["name"])
-
+    
 
 # # 4. Send the letter generated in step 3 to that person's email address.
 
-with smtplib.SMTP("smtp.gmail.com") as connection:
-    connection.starttls()
-    connection.login(MY_EMAIL, MY_PASSWORD)
-    connection.sendmail(
-        from_addr = MY_EMAIL, 
-        to_addrs = MY_EMAIL, 
-        msg =f"Subject:Happy Birthday!\n\n{contents}"
-    )
-    connection.close()
+    with smtplib.SMTP("smtp.gmail.com") as connection:
+        connection.starttls()
+        connection.login(MY_EMAIL, MY_PASSWORD)
+        connection.sendmail(
+            from_addr = MY_EMAIL, 
+            to_addrs = birthday_person["email"], 
+            msg = f"Subject:Happy Birthday!\n\n{contents}"
+        )
 
 
 

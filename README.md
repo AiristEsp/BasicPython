@@ -49,3 +49,5 @@ A brief description of what this project does and who it's for
 ## Lessons Learned
 
 - smtplib , datetime module
+- Dict Comprehension, Comma Separated Values, R+W CSV
+- Pandas Data Frame, Tuples

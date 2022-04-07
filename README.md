@@ -52,3 +52,18 @@ A brief description of what this project does and who it's for
 - Dict Comprehension, Comma Separated Values, R+W CSV
 - Pandas Data Frame, Tuples
 - Python Anywhere Cloud
+
+# 33. ISS Overhead
+
+## Lessons Learned
+
+- requests module
+- API Key
+
+# 34. GUI Quiz App
+
+## Lessons Learned
+
+- requests module, API Key, Params
+- HTML Entities
+- 

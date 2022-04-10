@@ -66,4 +66,11 @@ A brief description of what this project does and who it's for
 
 - requests module, API Key, Params
 - HTML Entities
-- 
+
+# 35. Send SMS
+
+## Lessons Learned
+
+- Wether API, TWilio API
+- Python Slice
+- Python Anywhere Run program in cloud

@@ -44,6 +44,12 @@ A brief description of what this project does and who it's for
 - List
 - Random Module
 
+# 5. Password Generator
+
+## Lessons Learned
+
+- Looping
+
 # 32. Send Email and Date time
 
 ## Lessons Learned

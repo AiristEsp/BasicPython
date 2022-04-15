@@ -50,6 +50,22 @@ A brief description of what this project does and who it's for
 
 - Looping
 
+# 6. Escape Maze
+
+## Lessons Learned
+
+- Function
+
+# 7. Hangman Game
+
+## Lessons Learned
+
+- Looping in Function
+- import files
+- ASCII Text
+
+
+
 # 32. Send Email and Date time
 
 ## Lessons Learned

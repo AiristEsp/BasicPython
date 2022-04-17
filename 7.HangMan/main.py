@@ -1,6 +1,5 @@
 #Step 1 
 import random
-
 from word import word_list
 from art import logo, stages
 from replit import clear

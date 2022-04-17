@@ -64,7 +64,11 @@ A brief description of what this project does and who it's for
 - import files
 - ASCII Text
 
+# 8. Caesar Cipher text
 
+## Lessons Learned
+- Input Function
+- Index Method untuk menghitung posisi kata
 
 # 32. Send Email and Date time
 

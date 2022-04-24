@@ -76,6 +76,10 @@ A brief description of what this project does and who it's for
 - Looping in Dictionary
 - Append Dict
 
+# 10. Calculator
+## Lessons Learned
+- Function and Dictionary
+
 # 32. Send Email and Date time
 
 ## Lessons Learned

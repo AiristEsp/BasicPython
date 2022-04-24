@@ -70,6 +70,12 @@ A brief description of what this project does and who it's for
 - Input Function
 - Index Method untuk menghitung posisi kata
 
+# 9. Secret Auction
+## Lessons Learned
+- Nested Dictionary
+- Looping in Dictionary
+- Append Dict
+
 # 32. Send Email and Date time
 
 ## Lessons Learned
